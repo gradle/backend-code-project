@@ -6,19 +6,27 @@ This project aims to allow you to demonstrate your expertise and skills using an
 a modern microservice libray that embraces aysnchronous programming as provided by `Armeria`, one or more testing frameworks of your choice, 
 and the widely-adopted build tool `Gradle`.
 
-### Installation instructions
+## Installation instructions
 
-You are already provided with a scaffold and a build to start up the server. Simply run
+You are already provided with a scaffold, including a Gradle build to assemble and run the server and a client.
 
-` ./gradlew :server:start`
+### Server
 
-and then access the application at [http://localhost:5555/](http://localhost:5555/).
+From the root of the checked out project, start the minimal server and navigate to [http://localhost:5555/](http://localhost:5555/):
 
-### Implementation instructions
+`./gradlew :server:start`
+
+### Client
+
+From the root of the checked out project, run the provided client that invokes the server in various configurations and observe the console output:
+
+`./gradlew :client:run`
+
+## Implementation instructions
 
 Follow the detailed instructions provided to you via email.
 
-### Evaluation criteria
+## Evaluation criteria
 
 - Overall architecture and solution structure
 - Code organization, readability, and easiness to follow
@@ -28,12 +36,12 @@ Follow the detailed instructions provided to you via email.
 
 Please include the reasoning about the choices made and considered alternatives under [Reasoning](#reasoning).
 
-### Reasoning
+## Reasoning
 
-#### Choices and considered alternatives
+### Choices and considered alternatives
 
 _For you to fill._
 
-#### Future improvements (if you had more time)
+### Future improvements (if you had more time)
 
 _Optional. For you to fill._
