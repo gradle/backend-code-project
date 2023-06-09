@@ -45,3 +45,10 @@ _For you to fill._
 ### Future improvements (if you had more time)
 
 _Optional. For you to fill._
+
+## Checklist
+
+- [ ] Instructions followed closely and implementation verified to work
+- [ ] All given advice read carefully and applied to the project
+- [ ] Decisions described in the README file
+- [ ] Zip-file created without any build artifacts in it and uploaded to Gradle
