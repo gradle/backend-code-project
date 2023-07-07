@@ -28,6 +28,7 @@ The following criteria will play into the evaluation of your submission:
 
 - Overall architecture and solution structure
 - Code organization, readability, and easiness to follow
+- Utilization of the chosen programming language and language version
 - Data mapping and transformation
 - Error and edge case handling
 - Test coverage
