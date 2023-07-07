@@ -35,9 +35,13 @@ The following criteria will play into the evaluation of your submission:
 
 ## Reasoning
 
-### Choices and considered alternatives
+### Language, libraries, and testing frameworks
 
-_Please include the reasoning about the choices you made and the alternatives you considered._
+_Please include the reasoning about the choice of language, language version, libraries, and testing frameworks._
+
+### Other choices and considered alternatives
+
+_Please include the reasoning about other choices you made and the alternatives you considered._
 
 ### Future improvements (if you had more time)
 
