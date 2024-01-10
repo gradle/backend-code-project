@@ -1,6 +1,6 @@
-# Gradle Enterprise Backend Code Project
+# Develocity Backend Code Project
 
-Congratulations on advancing to the code project for a Backend Engineer position on the Gradle Enterprise team!
+Congratulations on advancing to the code project for a Backend Engineer position on the Develocity team!
 
 This project aims to allow you to demonstrate your expertise and skills using an industry-standard language such as `Java` or `Kotlin`, a modern microservice library that embraces asynchronous programming as provided by `Armeria`, one or more testing frameworks of your choice, and the widely-adopted build tool `Gradle`.
 

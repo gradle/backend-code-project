@@ -1,4 +1,4 @@
-package com.gradle.enterprise.assignment;
+package com.gradle.develocity.assignment;
 
 import com.linecorp.armeria.common.HttpResponse;
 import com.linecorp.armeria.server.Server;
@@ -12,7 +12,7 @@ public final class MyServer {
     public static void main(String[] args) {
         ServerBuilder sb = Server.builder();
         sb.http(5555);
-        sb.service("/", (ctx, req) -> HttpResponse.of("Gradle Enterprise Backend Code Project"));
+        sb.service("/", (ctx, req) -> HttpResponse.of("Develocity Backend Code Project"));
         Server server = sb.build();
         CompletableFuture<Void> future = server.start();
         future.join();

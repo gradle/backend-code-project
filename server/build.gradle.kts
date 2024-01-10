@@ -22,5 +22,5 @@ tasks.withType<JavaCompile>().configureEach {
 
 tasks.register<JavaExec>("start") {
     classpath = sourceSets["main"].runtimeClasspath
-    mainClass.set("com.gradle.enterprise.assignment.MyServer")
+    mainClass.set("com.gradle.develocity.assignment.MyServer")
 }
