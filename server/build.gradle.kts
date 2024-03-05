@@ -12,7 +12,7 @@ dependencies {
     implementation("com.linecorp.armeria:armeria")
     implementation("com.linecorp.armeria:armeria-logback")
 
-    runtimeOnly("ch.qos.logback:logback-classic:1.5.2")
+    runtimeOnly("ch.qos.logback:logback-classic:1.5.3")
     runtimeOnly("org.slf4j:log4j-over-slf4j:2.0.12")
 }
 
