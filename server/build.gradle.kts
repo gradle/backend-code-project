@@ -13,7 +13,7 @@ dependencies {
     implementation("com.linecorp.armeria:armeria-logback")
 
     runtimeOnly("ch.qos.logback:logback-classic:1.5.6")
-    runtimeOnly("org.slf4j:log4j-over-slf4j:2.0.14")
+    runtimeOnly("org.slf4j:log4j-over-slf4j:2.0.15")
 }
 
 tasks.withType<JavaCompile>().configureEach {
