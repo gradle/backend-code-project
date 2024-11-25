@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    implementation(platform("com.linecorp.armeria:armeria-bom:1.31.0"))
+    implementation(platform("com.linecorp.armeria:armeria-bom:1.31.1"))
     implementation("com.linecorp.armeria:armeria")
     implementation("com.linecorp.armeria:armeria-logback")
 
